@@ -27,8 +27,8 @@ setup(
         "License :: OSI Approved :: MIT License",
     ],
     install_requires=[
-        "lxml==5.2.2",
-        "requests==2.32.2",
+        "lxml==6.1.0",
+        "requests==2.33.0",
         "garth==0.4.46",
         "python-dotenv"],
     entry_points={
