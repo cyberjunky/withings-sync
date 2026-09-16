@@ -28,7 +28,7 @@ setup(
     ],
     install_requires=[
         "lxml==5.2.2",
-        "requests==2.31.0",
+        "requests==2.32.2",
         "garth==0.4.46",
         "python-dotenv"],
     entry_points={
